@@ -1,0 +1,15 @@
+{
+  "name": "CRX — The Constellation Ledger",
+  "type": "Protocol-Class Acronym",
+  "status": "Unminted",
+  "description": "The Genesis Glyph of CRX — a modular reputation protocol born from DreamBuilderDAO. This 1/1 NFT represents naming rights, lore access, and activation power over CRXProtocol.com.",
+  "external_url": "https://crxprotocol.com",
+  "animation_url": "https://gateway.pinata.cloud/ipfs/[to_be_added_if_applicable]",
+  "attributes": [
+    { "trait_type": "Acronym", "value": "CRX" },
+    { "trait_type": "Entity Class", "value": "Reputation Layer" },
+    { "trait_type": "Lifecycle Stage", "value": "Sealed" },
+    { "trait_type": "DAO Steward", "value": "DreamBuilderDAO" },
+    { "trait_type": "Transfer Method", "value": "NFT + DNS + GitHub" }
+  ]
+}
